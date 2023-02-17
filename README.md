@@ -8,6 +8,17 @@
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
+<!--
+本页文档使用 Markdown 进行编辑，如果你对 Markdown 语法不熟悉，可以参考下面的资料：
+
+GitHub 方言参考: https://github.github.com/gfm/
+一分钟快速语法参考: https://commonmark.org/help/
+十分钟入门互动课程: https://commonmark.org/help/tutorial/
+基本语法参考: https://www.markdownguide.org/basic-syntax/
+
+这个部分是注释内容，不会显示，可以删除。
+-->
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
