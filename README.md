@@ -26,19 +26,24 @@ GitHub 方言参考: https://github.github.com/gfm/
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=CC6600)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=007396)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Web3.js](https://img.shields.io/badge/-Web3.js-000?&logo=Web3.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoftazure)
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
