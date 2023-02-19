@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on REST APIs and integrated systems
 - 🌱 I’m currently learning system programming in C++ and Rust as well as smart contract design and deployment in Solidity and Web3.js 
 - 💬 Ask me about mathematical calculus in C++
-- 📫 How to reach me: [on twitter!](https://twitter.com/STaaissat)
+- 📫 How to reach me: <a href="mailto:fake@example.com">Email</a> [LinkedIn](https://linkedin.com) [TikTok]() [twitter](https://twitter.com/STaaissat) [Slack]() [Discord]()
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
