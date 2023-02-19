@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm LYZJU2019
 ---
 
+- 🏫 I obtained my bachelor of Engineering degree in Computer Engineering at *University of Illinois at Urbana Champaign*.
 - 🔭 I’m currently working on REST APIs and integrated systems
-- 🌱 I’m currently learning system programming in C++
+- 🌱 I’m currently learning system programming in C++ and Rust as well as smart contract design and deployment in Solidity and Web3.js 
 - 💬 Ask me about mathematical calculus in C++
 - 📫 How to reach me: [on twitter!](https://twitter.com/STaaissat)
 - 😄 Pronouns: He/Him
