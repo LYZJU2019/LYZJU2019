@@ -39,18 +39,17 @@ GitHub 方言参考: https://github.github.com/gfm/
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoftazure)
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoftazure)
+![LaTeX](https://img.shields.io/badge/-LateX-000?&logo=latex)
 
 ### Full Stack Projects (TODO)
 
