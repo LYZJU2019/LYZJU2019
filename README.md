@@ -2,6 +2,7 @@
 ---
 
 - 🏫 I obtained my bachelor of Engineering degree in Computer Engineering at *University of Illinois at Urbana Champaign*.
+- 🏫 I'm currently pursuing my Master of Computational Data Science (MCDS) degree under School of Computer Science (SCS) at *Carnegie Mellon University*.
 - 🔭 I’m currently working on REST APIs and integrated systems
 - 🌱 I’m currently learning system programming in C++ and Rust as well as smart contract design and deployment in Solidity and Web3.js 
 - 💬 Ask me about mathematical calculus in C++
