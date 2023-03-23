@@ -5,9 +5,8 @@
 - 😄 Pronouns: He/Him
 - 🎓 Soon to be grad with a Bachelor of Engineering degree in Computer Engineering at *University of Illinois at Urbana Champaign* and *Zhejiang University* (Dual Degree Program). (Jun. 2023)
 - 🎓 Incoming student pursuing Master of Computational Data Science (MCDS) degree under School of Computer Science (SCS) at *Carnegie Mellon University*.
-- 🌇 Studying in Pittsburgh, PA, with a passion for building AI products and working on AI research that will impact our day-to-day lives
-- 📚 I have previously interned at a Silicon Valley-based startup as well as at Veritas Technologies. I have also worked under professors from my undergrad institute and also IIIT Allahabad on various topics in AI research.
-- 💻 I hope to work at a diverse and mission-driven team in the space of AI as a researcher, engineer or a data scientist. I am actively seeking internships for Summer 2023.
+- 📚 I have previously interned at a Silicon Valley-based startup. I have also worked under professors from my undergrad institute on various topics in AI research.
+- 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an engineer or a data scientist.
 - 💬 Ask me about
 - 🔭 I’m currently working on REST APIs and integrated systems
 - 🌱 I’m currently learning system programming in C++ and Rust as well as smart contract design and deployment in Solidity and Web3.js 
