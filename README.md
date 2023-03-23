@@ -5,10 +5,17 @@
 - 🏫 I'm currently pursuing my Master of Computational Data Science (MCDS) degree under School of Computer Science (SCS) at *Carnegie Mellon University*.
 - 🔭 I’m currently working on REST APIs and integrated systems
 - 🌱 I’m currently learning system programming in C++ and Rust as well as smart contract design and deployment in Solidity and Web3.js 
-- 💬 Ask me about mathematical calculus in C++
+- 💬 Ask me about 
 - 📫 How to reach me: <a href="mailto:fake@example.com">Email</a> [LinkedIn](https://linkedin.com) [TikTok]() [twitter](https://twitter.com/STaaissat) [Slack]() [Discord]()
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
+- 👋🏽 Hi, my name is 
+- 🎓 Soon to be grad with a Master of Computational Data Science from Carnegie Mellon University. (Dec 2023)
+- 🌇 Studying in Pittsburgh, PA, with a passion for building AI products and working on AI research that will impact our day-to-day lives
+- 📚 I have previously interned at a Silicon Valley-based startup as well as at Veritas Technologies. I have also worked under professors from my undergrad institute and also IIIT Allahabad on various topics in AI research.
+- 💻 I hope to work at a diverse and mission-driven team in the space of AI as a researcher, engineer or a data scientist. I am actively seeking internships for Summer 2023.
+- 🏔 I enjoy discovering and listening to various genres of music and also trekking on new mountains.
+- 💪🏽 I am proficient in Python and have extensively worked on AI related projects with a focus on Computer Vision. I am also currently working on various projects that involve a more general multimodal aspect of machine learning. I have also led a large team for a student organization while conducting intensive interviews for the board members.
 
 <!--
 本页文档使用 Markdown 进行编辑，如果你对 Markdown 语法不熟悉，可以参考下面的资料：
