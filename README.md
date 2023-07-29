@@ -3,16 +3,15 @@
 
 - 👋🏽 Hi, my name is Yu Liu
 - 😄 Pronouns: He/Him
-- 🎓 Soon to be grad with a Bachelor of Engineering degree in Computer Engineering at *University of Illinois at Urbana Champaign* and *Zhejiang University* (Dual Degree Program). (Jun. 2023)
+- 🎓 Grad with a Bachelor of Science degree in Computer Engineering at *University of Illinois at Urbana Champaign* and *Zhejiang University* (Dual Degree Program). (Jun. 2023)
 - 🎓 Incoming student pursuing Master of Computational Data Science (MCDS) degree under School of Computer Science (SCS) at *Carnegie Mellon University*.
-- 📚 I have previously interned at a Silicon Valley-based startup. I have also worked under professors from my undergrad institute on various topics in AI research.
-- 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an engineer or a data scientist.
-- 💬 Ask me about
-- 🔭 I’m currently working on REST APIs and integrated systems
-- 🌱 I’m currently learning system programming in C++ and Rust as well as smart contract design and deployment in Solidity and Web3.js 
-- 📫 How to reach me: <a href="mailto:fake@example.com">Email</a> [LinkedIn](https://linkedin.com) [TikTok]() [twitter](https://twitter.com/STaaissat) [Slack]() [Discord]()
+- 📚 I have previously interned at Silicon Valley-based and New York-based startups. I have also worked under professors from my undergrad institute on various topics in AI research.
+- 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
+- 💬 Ask me about EVERYTHING, if I know
+- 🔭 I’m currently working on SaaS softwares (Business Intelligence) that cater market needs.
+- 🌱 I’m currently horning my programming skills in C++, Python, Java, Golang and popular frameworks in JavaScript.
+- 📫 How to reach me: <a href="mailto:yul5@cs.cmu.edu">Email</a> [LinkedIn](https://linkedin.com/in/adolph-liu/)
 - 🏔 I enjoy discovering and listening to various genres of music and also trekking on new mountains.
-- 💪🏽 I am proficient in Python and have extensively worked on AI related projects with a focus on Computer Vision. I am also currently working on various projects that involve a more general multimodal aspect of machine learning. I have also led a large team for a student organization while conducting intensive interviews for the board members.
 
 <!--
 本页文档使用 Markdown 进行编辑，如果你对 Markdown 语法不熟悉，可以参考下面的资料：
