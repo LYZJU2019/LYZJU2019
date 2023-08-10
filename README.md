@@ -56,6 +56,7 @@ GitHub 方言参考: https://github.github.com/gfm/
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoftazure)
 ![LaTeX](https://img.shields.io/badge/-LateX-000?&logo=latex)
 
+<!--
 ### Full Stack Projects (TODO)
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/LYZJU2019/v2)
@@ -75,7 +76,7 @@ GitHub 方言参考: https://github.github.com/gfm/
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/LYZJU2019/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/LYZJU2019/Network-Tools)
 
-
+-->
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
