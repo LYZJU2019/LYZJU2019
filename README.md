@@ -86,15 +86,11 @@ GitHub 方言参考: https://github.github.com/gfm/
 
 ### 📊 GitHub Stats:
 ---
-![LYZJU2019 github stats](https://github-readme-stats.vercel.app/api?username=LYZJU2019&theme=radical&show_icons=true&count_private=true)
-
-![LYZJU2019 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LYZJU2019&theme=solarized_dark)
-![LYZJU2019 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LYZJU2019&theme=solarized_dark)
 ![LYZJU2019 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LYZJU2019&theme=solarized_dark)
 
 <p>
   <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LYZJU2019&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LYZJU2019&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=gruvbox"/>
+  
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYZJU2019&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,vue)
