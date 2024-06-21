@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - 🎓 Grad with a Bachelor of Science degree in Computer Engineering at *University of Illinois at Urbana Champaign* and *Zhejiang University* (Dual Degree Program). (Jun. 2023)
 - 🎓 Incoming student pursuing Master of Computational Data Science (MCDS) degree under School of Computer Science (SCS) at *Carnegie Mellon University*.
-- 📚 I have previously interned at Silicon Valley-based and New York-based startups. I have also worked under professors from my undergrad institute on various topics in AI research.
+- 📚 I'm currently interning at LinkedIn as a system and infrastructure engineer. I have previously interned at Silicon Valley-based and New York-based startups. I have also worked under professors from my undergrad institute on various topics in AI research.
 - 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
 - 💬 Ask me about EVERYTHING, if I know
 - 🔭 I’m currently working on SaaS softwares (Business Intelligence) that cater market needs.
