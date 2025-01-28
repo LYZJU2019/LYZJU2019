@@ -3,13 +3,11 @@
 
 - 👋🏽 Hi, my name is Yu Liu
 - 😄 Pronouns: He/Him
-- 🎓 Grad with a Bachelor of Science degree in Computer Engineering at *University of Illinois at Urbana Champaign* and *Zhejiang University* (Dual Degree Program). (Jun. 2023)
-- 🎓 Incoming student pursuing Master of Computational Data Science (MCDS) degree under School of Computer Science (SCS) at *Carnegie Mellon University*.
-- 📚 I'm currently interning at LinkedIn as a system and infrastructure engineer. I have previously interned at Silicon Valley-based and New York-based startups. I have also worked under professors from my undergrad institute on various topics in AI research.
-- 💻 I hope to work at a diverse and mission-driven team in the space of intelligent software systems as an software engineer.
+- 🎓 Grad with a Bachelor of Science degree in Computer Engineering at *University of Illinois at Urbana Champaign* (Jun. 2023)
+- 🎓 Currently pursuing computer science degree at *Carnegie Mellon University*.
+- 💻 I'll be joining LinkedIn HQ as a system and infrastructure engineer.
 - 💬 Ask me about EVERYTHING, if I know
-- 🔭 I’m currently working on SaaS softwares (Business Intelligence) that cater market needs.
-- 🌱 I’m currently horning my programming skills in C++, Python, Java, Golang and popular frameworks in JavaScript.
+- 🔭 I’m currently working on Rust projects.
 - 📫 How to reach me: <a href="mailto:yul5@cs.cmu.edu">Email</a> [LinkedIn](https://linkedin.com/in/adolph-liu/)
 - 🏔 I enjoy discovering and listening to various genres of music and also trekking on new mountains.
 
